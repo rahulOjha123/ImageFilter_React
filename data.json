@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "img":"Imagess/bick1.jpg",
+        "name":"bick",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    },
+    {
+        "id":2,
+        "img":"Imagess/bick1.jpg",
+        "name":"bick",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    },
+    {
+        "id":3,
+        "img":"Imagess/bick1.jpg",
+        "name":"bick",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    },
+    {
+        "id":4,
+        "img":"Imagess/god.png",
+        "name":"god",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    },
+    {
+        "id":5,
+        "img":"Imagess/salad.jpg",
+        "name":"foods",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    },
+    {
+        "id":6,
+        "img":"Imagess/salad.jpg",
+        "name":"foods",
+        "para":"Hello gusies this product is very nice can chake the prices this product and buy"
+    }
+]
